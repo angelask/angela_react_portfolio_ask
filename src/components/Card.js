@@ -15,7 +15,7 @@ const Example = (props) => {
           <CardSubtitle>{props.details}</CardSubtitle>
             <CardText>{props.projectText}</CardText>
           <Button href={props.githubHref} target="_blank">Github Link</Button>
-          <Button href={props.githubHref} target="_blank">Deployed Link</Button>
+          <Button href={props.deployedHref} target="_blank">Deployed Link</Button>
           
         </CardBody>
       </Card>

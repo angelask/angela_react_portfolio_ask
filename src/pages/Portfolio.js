@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import Card from "../components/Card";
-// import './Portfolio.css';
+ import './Portfolio.css';
 
 class PortfolioPage extends Component {
   render() {
@@ -12,7 +12,7 @@ class PortfolioPage extends Component {
         <Row>
           <Col xs="6">
             <Card 
-              projectName={"project 1"}
+              projectName={"Project 1"}
               details={"Boozercise"}
               projectText={"Are you Exercising Enough To Offset Your Alcohol Consumption? This was a project using Jquery & API's."}
               githubHref={"https://github.com/angelask/Boozercise-ASK"}
@@ -22,7 +22,7 @@ class PortfolioPage extends Component {
           </Col>
           <Col xs="6">
             <Card 
-            projectName={"project 2"}
+            projectName={"Project 2"}
             details={"Scheduler"}
               projectText={"If you need help organizing? This was a Jquery/JavaScript assignment displaying an extended workday."}
               githubHref={"https://github.com/angelask/scheduler-ASK"}
@@ -33,7 +33,7 @@ class PortfolioPage extends Component {
         <Row>
           <Col xs="6">
             <Card
-            projectName={"project 3"}
+            projectName={"Project 3"}
             details={"Fitness Code Quiz"}
               projectText={"Find out if you are a fitness Guru. This was a fun use of javascript to demonstrate the use of a timer in a quiz"}
               githubHref={"https://github.com/angelask/Code-Quiz-ASK"}
@@ -42,7 +42,7 @@ class PortfolioPage extends Component {
           </Col>
           <Col xs="6">
             <Card
-            projectName={"project 4"}
+            projectName={"Project 4"}
             details={"Eat Da Burger App"}
               projectText={"Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat."}
               githubHref={"https://github.com/angelask/burger_ASK"}
@@ -53,7 +53,7 @@ class PortfolioPage extends Component {
         <Row>
           <Col xs="6">
             <Card
-            projectName={"project 5"}
+            projectName={"Project 5"}
             details={"Brainjuicing"}
               projectText={"This a a place the user can go if the need inspration, humor or revelation quotes."}
               githubHref={"https://github.com/LarraineG/Project2"}
@@ -62,9 +62,9 @@ class PortfolioPage extends Component {
           </Col>
           <Col xs="6">
             <Card
-            projectName={"project 6"}
+            projectName={"Project 6"}
             details={"Employee Directory"}
-              projectText={"Search your staff by name using this react app."}
+              projectText={"Search your staff by name using this react app. User may also use the pull-down arrows in each section to filter employees"}
               githubHref={"https://github.com/angelask/react_hw19"}
               deployedHref={"https://angelask.github.io/react_hw19/"}
             ></Card>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, CardFooter,  } from 'reactstrap';
 
-    const Example = (props) => {
+    const Footer = (props) => {
         return (
           <div>
             
@@ -14,4 +14,4 @@ import { Card, CardFooter,  } from 'reactstrap';
         );
       };
       
-      export default Example; 
+      export default Footer; 

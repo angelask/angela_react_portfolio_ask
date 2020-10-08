@@ -7,7 +7,7 @@ class ContactPage extends Component {
     return (
       <section className="contact_page">
         <h1>Contact Page</h1>
-        <form>
+        <form className="contact-page">
         <FormGroup row>
         <Label for="exampleEmail" sm={2}>Email</Label>
         <Col sm={10}>

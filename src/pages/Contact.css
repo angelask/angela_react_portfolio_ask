@@ -3,6 +3,16 @@
     color: black;
     text-align: center;
     padding: 150px 0;
-    background-color: white;
+    background-color: aquamarine;
     border: 1px solid transparent;
+  }
+
+  .contact-page {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: black;
+    background-color: lightgrey;
+   
   }

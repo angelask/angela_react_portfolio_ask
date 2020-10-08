@@ -35,6 +35,7 @@ class App extends Component {
 	      <Route path="/contact" component={ Contact } />
 	      <Route path="/portfolio" component={ Portfolio } />
             </Switch>
+            <Footer/>
           </main>
         </State.Provider>
       </Router>
