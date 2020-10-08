@@ -31,9 +31,9 @@ class App extends Component {
             */}
 	    <NavBar />
             <Switch>
-	      <Route exact path="/" component={ Home } />
-	      <Route path="/contact" component={ Contact } />
-	      <Route path="/portfolio" component={ Portfolio } />
+	      <Route exact path={["/", "/angela_react_portfolio_ask"]} component={ Home } />
+	      <Route path={["/contact", "/angela_react_portfolio_ask/contact"]}  component={ Contact } />
+	      <Route path={["/portfolio", "/angela_react_portfolio_ask/portfolio"]} component={ Portfolio } />
             </Switch>
             <Footer/>
           </main>
