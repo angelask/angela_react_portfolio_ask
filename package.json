@@ -2,7 +2,7 @@
   "name": "angela_react_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://angelask.github.io/angela_react_portfolio_ask/.",
+  "homepage": "https://angelask.github.io/angela_react_portfolio_ask/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
