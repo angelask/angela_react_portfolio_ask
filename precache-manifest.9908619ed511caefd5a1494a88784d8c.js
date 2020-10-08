@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23a920e99aa2f8ba31a2f208de152536",
+    "revision": "1ff66474afdb9a119f690659c51ae225",
     "url": "/angela_react_portfolio_ask/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/angela_react_portfolio_ask/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "a7691e834d58280de617",
+    "revision": "8380720101bc86af0216",
     "url": "/angela_react_portfolio_ask/static/css/main.ac0ce8fe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7691e834d58280de617",
-    "url": "/angela_react_portfolio_ask/static/js/main.8c22c85e.chunk.js"
+    "revision": "8380720101bc86af0216",
+    "url": "/angela_react_portfolio_ask/static/js/main.48248cfb.chunk.js"
   },
   {
     "revision": "918362c92270486b96d5",

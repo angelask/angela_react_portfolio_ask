@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/angela_react_portfolio_ask/static/css/main.ac0ce8fe.chunk.css",
-    "main.js": "/angela_react_portfolio_ask/static/js/main.8c22c85e.chunk.js",
-    "main.js.map": "/angela_react_portfolio_ask/static/js/main.8c22c85e.chunk.js.map",
+    "main.js": "/angela_react_portfolio_ask/static/js/main.48248cfb.chunk.js",
+    "main.js.map": "/angela_react_portfolio_ask/static/js/main.48248cfb.chunk.js.map",
     "runtime-main.js": "/angela_react_portfolio_ask/static/js/runtime-main.ad2d1e4c.js",
     "runtime-main.js.map": "/angela_react_portfolio_ask/static/js/runtime-main.ad2d1e4c.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/angela_react_portfolio_ask/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1495017c.chunk.js": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js",
     "static/js/2.1495017c.chunk.js.map": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js.map",
     "index.html": "/angela_react_portfolio_ask/index.html",
-    "precache-manifest.ee990e1f8db3a96bdc501dd992c7c372.js": "/angela_react_portfolio_ask/precache-manifest.ee990e1f8db3a96bdc501dd992c7c372.js",
+    "precache-manifest.9908619ed511caefd5a1494a88784d8c.js": "/angela_react_portfolio_ask/precache-manifest.9908619ed511caefd5a1494a88784d8c.js",
     "service-worker.js": "/angela_react_portfolio_ask/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/angela_react_portfolio_ask/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.ac0ce8fe.chunk.css.map": "/angela_react_portfolio_ask/static/css/main.ac0ce8fe.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1495017c.chunk.js",
     "static/css/main.ac0ce8fe.chunk.css",
-    "static/js/main.8c22c85e.chunk.js"
+    "static/js/main.48248cfb.chunk.js"
   ]
 }
