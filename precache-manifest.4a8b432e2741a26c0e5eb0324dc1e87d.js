@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "258e1055b1b6ffa8e024c9a528e34e2b",
+    "revision": "b31a1f2daf73b84c892edc93dfd4eaf3",
     "url": "/angela_react_portfolio_ask/index.html"
   },
   {
-    "revision": "3ffb4267f6ec94236db4",
+    "revision": "1b5d5c4b2b7c31e280f4",
     "url": "/angela_react_portfolio_ask/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "e3f2be98307c975f0046",
+    "revision": "2dc19bdb08cf51ba9d56",
     "url": "/angela_react_portfolio_ask/static/css/main.ac0ce8fe.chunk.css"
   },
   {
-    "revision": "3ffb4267f6ec94236db4",
-    "url": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js"
+    "revision": "1b5d5c4b2b7c31e280f4",
+    "url": "/angela_react_portfolio_ask/static/js/2.3f2ac927.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js.LICENSE.txt"
+    "url": "/angela_react_portfolio_ask/static/js/2.3f2ac927.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3f2be98307c975f0046",
-    "url": "/angela_react_portfolio_ask/static/js/main.2b5a6613.chunk.js"
+    "revision": "2dc19bdb08cf51ba9d56",
+    "url": "/angela_react_portfolio_ask/static/js/main.6d5499e6.chunk.js"
   },
   {
     "revision": "918362c92270486b96d5",

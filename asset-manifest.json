@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/angela_react_portfolio_ask/static/css/main.ac0ce8fe.chunk.css",
-    "main.js": "/angela_react_portfolio_ask/static/js/main.2b5a6613.chunk.js",
-    "main.js.map": "/angela_react_portfolio_ask/static/js/main.2b5a6613.chunk.js.map",
+    "main.js": "/angela_react_portfolio_ask/static/js/main.6d5499e6.chunk.js",
+    "main.js.map": "/angela_react_portfolio_ask/static/js/main.6d5499e6.chunk.js.map",
     "runtime-main.js": "/angela_react_portfolio_ask/static/js/runtime-main.ad2d1e4c.js",
     "runtime-main.js.map": "/angela_react_portfolio_ask/static/js/runtime-main.ad2d1e4c.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/angela_react_portfolio_ask/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.1495017c.chunk.js": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js",
-    "static/js/2.1495017c.chunk.js.map": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js.map",
+    "static/js/2.3f2ac927.chunk.js": "/angela_react_portfolio_ask/static/js/2.3f2ac927.chunk.js",
+    "static/js/2.3f2ac927.chunk.js.map": "/angela_react_portfolio_ask/static/js/2.3f2ac927.chunk.js.map",
     "index.html": "/angela_react_portfolio_ask/index.html",
-    "precache-manifest.f9ee9f733f65de4a0dbfadfe68ca6da4.js": "/angela_react_portfolio_ask/precache-manifest.f9ee9f733f65de4a0dbfadfe68ca6da4.js",
+    "precache-manifest.4a8b432e2741a26c0e5eb0324dc1e87d.js": "/angela_react_portfolio_ask/precache-manifest.4a8b432e2741a26c0e5eb0324dc1e87d.js",
     "service-worker.js": "/angela_react_portfolio_ask/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/angela_react_portfolio_ask/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.ac0ce8fe.chunk.css.map": "/angela_react_portfolio_ask/static/css/main.ac0ce8fe.chunk.css.map",
-    "static/js/2.1495017c.chunk.js.LICENSE.txt": "/angela_react_portfolio_ask/static/js/2.1495017c.chunk.js.LICENSE.txt",
+    "static/js/2.3f2ac927.chunk.js.LICENSE.txt": "/angela_react_portfolio_ask/static/js/2.3f2ac927.chunk.js.LICENSE.txt",
     "static/media/angela.jpg": "/angela_react_portfolio_ask/static/media/angela.fa99aff7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ad2d1e4c.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.1495017c.chunk.js",
+    "static/js/2.3f2ac927.chunk.js",
     "static/css/main.ac0ce8fe.chunk.css",
-    "static/js/main.2b5a6613.chunk.js"
+    "static/js/main.6d5499e6.chunk.js"
   ]
 }
